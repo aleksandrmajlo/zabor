@@ -1,5 +1,7 @@
 # calc
 
+Калькулятор заборов на вордпрессе
+
 ## Project setup
 ```
 npm install
